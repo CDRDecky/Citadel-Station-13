@@ -239,7 +239,7 @@
 /obj/structure/displaycase/captain
 	alert = 1
 	start_showpiece_type = /obj/item/weapon/gun/energy/laser/captain
-	req_access = list(ACCESS_CENT_SPECOPS)
+	req_access = list (ACCESS_CAPTAIN)
 
 /obj/structure/displaycase/labcage
 	name = "lab cage"
